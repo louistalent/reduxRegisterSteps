@@ -37,7 +37,6 @@ This starter also embeds `JWT token based` `authentication` (check [Route](https
 - enzyme
 - Sinon
 - nyc
-- script
 
 
 ## Usage
